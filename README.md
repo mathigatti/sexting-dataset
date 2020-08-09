@@ -3,9 +3,9 @@ Chats scraped from public resources on the internet
 
 ## Structure
 
-- `clean` folder contains conversations from different websites in txt format.
-- `raw` folder contains the original files, some are images which I converted into text applying an OCR. 
-- `sexting_dataset.txt` contains all the chats put together.
+- _clean_ folder contains conversations from different websites in txt format.
+- _raw_ folder contains the original files, some are images which I converted into text applying an OCR. 
+- _sexting_dataset.txt_ contains all the chats put together.
 
 
 ## Sources
