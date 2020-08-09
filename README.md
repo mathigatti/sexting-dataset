@@ -1,7 +1,15 @@
 # sexting-dataset
 Chats scraped from public resources on the internet
 
-## Sources list
+## Structure
+
+- `clean` folder contains conversations from different websites in txt format.
+- `raw` folder contains the original files, some are images which I converted into text applying an OCR. 
+- `sexting_dataset.txt` contains all the chats put together.
+
+
+## Sources
+This is the list of websites where I took the data from.
 
 - https://thoughtcatalog.com/eko-hayden/2016/04/erotic-sexts-between-lovers-that-will-make-you-horny/
 
