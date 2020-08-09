@@ -1,7 +1,7 @@
 # sexting-dataset
 Chats scraped from public resources on the internet
 
-## Real sexting conversations
+## Sources list
 
 - https://thoughtcatalog.com/eko-hayden/2016/04/erotic-sexts-between-lovers-that-will-make-you-horny/
 
