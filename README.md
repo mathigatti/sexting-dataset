@@ -27,3 +27,10 @@ This is the list of websites where I took the data from.
 - https://www.talktome.com/news/real-sexting-conversations/
 
 - https://imgur.com/a/Kqdiu
+
+## Support my work
+
+Mathias's open-source projects are supported by [his Patreon](https://www.patreon.com/mathigatti). If you found this project helpful, any monetary contributions to the Patreon are appreciated and will be put to good creative use.
+
+## License
+MIT
