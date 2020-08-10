@@ -7,6 +7,9 @@ Chats scraped from public resources on the internet
 - _raw_ folder contains the original files, some are images which I converted into text applying an OCR. 
 - _sexting_dataset.txt_ contains all the chats put together.
 
+## Bias and contributions
+
+These are mostly cis-heterosexual conversations. If you have some data that might help to become this dataset bigger and/or more diverse feel free to contribute.
 
 ## Sources
 This is the list of websites where I took the data from.
