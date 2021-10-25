@@ -12,7 +12,7 @@ Chats scraped from public resources on the internet
 These are mostly cis-heterosexual conversations. If you have some data that might help to become this dataset bigger and/or more diverse feel free to contribute.
 
 ## Sources
-This is the list of websites where I took the data from.
+This is the list of websites where I took the data from. If some page dies try accessing with https://web.archive.org
 
 - https://thoughtcatalog.com/eko-hayden/2016/04/erotic-sexts-between-lovers-that-will-make-you-horny/
 
