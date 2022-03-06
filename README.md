@@ -30,7 +30,7 @@ This is the list of websites where I took the data from. If some page dies try a
 
 ## Support my work
 
-Mathias's open-source projects are supported by [his Patreon](https://www.patreon.com/mathigatti). If you found this project helpful, any monetary contributions to the Patreon are appreciated and will be put to good creative use.
+Mathias's open-source projects are supported by [his ko-fi](https://ko-fi.com/mathigatti). If you found this project helpful, any monetary contributions are appreciated and will be put to good creative use.
 
 ## License
 MIT
